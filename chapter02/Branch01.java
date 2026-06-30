@@ -1,4 +1,4 @@
-package chpater02;
+package chapter02;
 
 public class Branch01 {
     public Branch01() {
